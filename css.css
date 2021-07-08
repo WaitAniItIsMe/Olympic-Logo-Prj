@@ -1,0 +1,17 @@
+
+h1
+{
+	color: rgb(19, 18, 18); 
+	font-size: 40px;
+}
+.body_backgorund {background-image: url("https://images.unsplash.com/photo-1531132076534-0120b6aa12cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTN8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80");
+	background-size: cover;
+	background-position: center;
+}
+
+#Canvas{border-width: 10px
+	;
+	background-color: rgb(255, 255, 255);
+	border-style: dotted;
+
+}
